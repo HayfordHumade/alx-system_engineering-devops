@@ -1,2 +1,2 @@
 #!/bin/bash
-cp --parent --update subdir/*.html parentdir
+cp --parents --update pwd/*.html cd -
